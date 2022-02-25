@@ -1,0 +1,28 @@
+.mainimg{
+   width: 50%;
+   height:50%;
+   margin-right: 22%;
+   border-radius: 15px;
+}
+.homediv{
+    /* width: 50%; */
+    margin-top: 20px;
+    margin-right: 10%;
+}
+.homedivh{
+    text-align: center;
+    color: brown;
+    font-weight: bolder;
+}
+.homedivtext{
+    text-align: center;
+    color: blue;
+}
+.mainimgbuton{
+  margin-right: 23%;  
+  text-decoration: darkblue;
+  font-size: large;
+  font-weight: bolder;
+  color: blue;
+
+}

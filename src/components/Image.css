@@ -1,0 +1,67 @@
+
+  
+  #content {
+    margin: 10px;
+    padding: 0;
+    /* background: #B8B8B8; */
+    overflow: hidden;
+  }
+  .Imageofimag{
+    width: 100%;
+    height: 40%;   
+  }
+  .circle-2 {
+    width: 70%;
+    height: 40%;
+    margin-right: 15%;
+    padding: 0;
+    position: relative;
+    background: #cccccc;
+    border-radius: 10%;
+    overflow: hidden;
+  }
+  
+  .circle-2 .text-2 {
+    width: 100%;
+    height: 100%;
+    margin-right: 20px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    background: rgba(255, 255, 255, 0.75);
+    border-radius: 10%;
+    -webkit-transform: scale(0);
+    transform: scale(0);
+    -webkit-transition: all 0.7s ease;
+    transition: all 0.7s ease;
+  }
+  
+  .circle-2:hover .text-2 {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    background: rgba(255, 255, 255, 0.75);
+    -webkit-box-shadow: 0px 0px 15px 2px rgba(255, 255, 255, .75);
+    box-shadow: 0px 0px 15px 2px rgba(255, 255, 255, .75);
+  }
+  
+  .text-2 h3 {
+    font-size: 20px;
+    text-align: center;
+    /* margin: 40px 20px 0 20px; */
+    padding-bottom: 5px;
+    border-bottom: 3px double #000000;
+  }
+  
+  .text-2 h5 {
+    margin: 10px 0 0 0;
+    text-align: center;
+  }
+  .text-2 h6 {
+    margin-right:10%;
+    font-weight: bolder;
+  }
+  .Engin{
+    width: 25%;
+    height: 30%;
+    margin:2% 35% 0 0;
+  }

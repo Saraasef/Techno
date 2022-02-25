@@ -1,0 +1,19 @@
+* {
+ 
+    direction: rtl;
+    font-family: 'Kalame'; 
+  }
+  body{
+    font-family: 'Kalame';
+  }
+  
+  code {
+    font-family: 'Kalame'; 
+  }
+  @font-face {
+    font-family: "Kalame";
+    src: url("./fonts/Kalame/eot/KalamehWeb_Bold.eot");
+    src: url("./fonts/Kalame/woff2/KalamehWeb_Bold.woff2") format("woff2"),
+     url("./fonts/Kalame/woff/KalamehWeb_Bold.woff") format("woff");
+  }
+  
